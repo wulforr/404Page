@@ -17,6 +17,7 @@
   line-height: 25px;
   letter-spacing: -0.08em;
   text-transform: uppercase;
+  color: #333333;
   margin-left: 3vw;
   padding-top: 2vw;
 }
@@ -36,10 +37,47 @@
 }
 
 .scarecrow-wrapper > img {
-  width: 80%;
+  width: 70%;
   height: auto;
 }
 
-.content h1, .content p{
-  width: 100%;
+p {
+  font-family: Space Mono;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1.5vw;
+  line-height: 2.2vw;
+  word-spacing: 0.5vw;
+  letter-spacing: -0.035em;
+  color: #4F4F4F;
+  width: 45%;
+  margin-top: 5%;
+  margin-bottom: 0;
+}
+
+h1 {
+  font-family: Space Mono;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 4vw;
+  word-spacing: 1vw;
+  line-height: 5vw;
+  letter-spacing: -0.035em;
+  color: #333333;
+  width: 80%;
+  margin-bottom: 0;
+}
+
+button {
+  margin-top: 5%;
+  padding: 2% 5%;
+  background-color: #333333;
+  font-family: Space Mono;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: -0.035em;
+  text-transform: uppercase;
+  color: #FFFFFF;
 }
