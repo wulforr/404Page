@@ -23,6 +23,7 @@ function App() {
           </div>
         </div>
       </main>
+      <footer>Shaurya @ DevChallenges.io</footer>
     </div>
   );
 }
